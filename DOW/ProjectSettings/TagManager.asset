@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Camera_Player1
+  - CameraP0
+  - CameraP1
+  - CameraP2
+  - CameraP3
+  - CameraP4
+  - CameraP5
+  - CameraP6
   layers:
   - Default
   - TransparentFX
